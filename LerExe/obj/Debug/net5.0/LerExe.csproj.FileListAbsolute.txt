@@ -1,0 +1,7 @@
+C:\Users\gabriel.jose\Desktop\execel\LerExe\LerExe\LerExe\obj\Debug\net5.0\LerExe.csproj.AssemblyReference.cache
+C:\Users\gabriel.jose\Desktop\execel\LerExe\LerExe\LerExe\obj\Debug\net5.0\LerExe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.jose\Desktop\execel\LerExe\LerExe\LerExe\obj\Debug\net5.0\LerExe.AssemblyInfoInputs.cache
+C:\Users\gabriel.jose\Desktop\execel\LerExe\LerExe\LerExe\obj\Debug\net5.0\LerExe.AssemblyInfo.cs
+C:\Users\gabriel.jose\Desktop\execel\LerExe\LerExe\LerExe\obj\Debug\net5.0\LerExe.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.jose\Desktop\execel\LerExe\LerExe\LerExe\obj\Debug\net5.0\LerExe.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gabriel.jose\Desktop\execel\LerExe\LerExe\LerExe\obj\Debug\net5.0\LerExe.MvcApplicationPartsAssemblyInfo.cache
